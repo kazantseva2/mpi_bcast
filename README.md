@@ -1,1 +1,1 @@
-# mpi_bcast
+# Отчет в task1_report.pdf
